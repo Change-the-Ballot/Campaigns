@@ -12,6 +12,7 @@
 
 ###### Contuning Edu
 - [Campaign and Election Magazine](Campaignsandelections.com/)
+- [The Green Papers](http://www.thegreenpapers.com/)
 
 ###### Federal
 - [FEC Guides](https://www.fec.gov/help-candidates-and-committees/guides/)
