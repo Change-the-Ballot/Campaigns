@@ -11,7 +11,7 @@
 ##### External
 
 ###### Contuning Edu
-- [Campaign and Election Magazine](Campaignsandelections.com/)
+- [Campaign and Election Magazine](https://Campaignsandelections.com/)
 - [The Green Papers](http://www.thegreenpapers.com/)
 
 ###### Federal
